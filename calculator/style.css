@@ -1,0 +1,31 @@
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: 200;
+    font-style: inherit;
+    size: 20px;
+}
+#table {
+    background-color: darkgray;
+    border-color: rgb(94, 62, 24);
+    width: max-content;
+    border-radius: 15% 5%;
+}
+
+input[type="button"] {
+    border-radius: 20px;
+    background-color: rgb(18, 24, 24);
+    color: white;
+    border-color: black;
+    width: 100%;
+}
+
+input [type="text"] {
+    border-radius: 20px;
+    text-align: right;
+    background-color: black;
+    color: white;
+    border-color: white;
+    width: 100%;
+}
+
