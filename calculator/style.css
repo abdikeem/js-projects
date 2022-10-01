@@ -5,11 +5,11 @@
     font-style: inherit;
     size: 20px;
 }
+
 #table {
-    background-color: darkgray;
-    border-color: rgb(94, 62, 24);
-    width: max-content;
-    border-radius: 15% 5%;
+    background-color: rgb(250, 240, 240);
+    border-color: rgb(8, 5, 0);
+    border-radius: 5% 5%;
 }
 
 input[type="button"] {
