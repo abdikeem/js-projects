@@ -8,7 +8,7 @@ function evaluate()
  let y = eval(x)
  document.getElementById("textvalue").value = y
 }
-function clear()
+function clr()
 {
  document.getElementById("textvalue").value = ""
 }
